@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/07 10:01:44.000.568,=C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/07/07 10:02:04.000.429,C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\Unit2.pas</Transaction>
+    <Transaction>2024/07/07 10:02:04.000.429,C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\Unit2.dfm</Transaction>
+    <Transaction>2024/07/07 10:02:07.000.825,C:\Users\vinic\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\Project1.dproj</Transaction>
+    <Transaction>2024/07/07 10:02:15.000.165,=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\Unit1.pas</Transaction>
+    <Transaction>2024/07/07 10:02:32.000.022,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\Unit1.dfm=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\unitDM.dfm</Transaction>
+    <Transaction>2024/07/07 10:02:32.000.022,C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\Unit1.pas=C:\Users\vinic\OneDrive\Área de Trabalho\delphi\Agenda contato Banco de dados\unitDM.pas</Transaction>
+  </Transactions>
+</BorlandProject>

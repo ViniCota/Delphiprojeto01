@@ -1,7 +1,7 @@
 object Form2: TForm2
   Left = 0
   Top = 0
-  Caption = 'Form2'
+  Caption = 'Sistema'
   ClientHeight = 725
   ClientWidth = 1017
   Color = clBtnFace
